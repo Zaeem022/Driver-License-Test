@@ -1,0 +1,13 @@
+Id: 2240
+Name: Nouman Qureshi
+Father's Name: Abdul Raheem
+Age: 22
+Gender: Male
+Address: street#19, house#12 lahore
+Phone No: 03064264086
+City: Lahoire
+CNIC: 35202-5673438-1
+Vehicle: Car
+Status: PASS
+------------------------------ 
+
